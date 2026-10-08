@@ -4,6 +4,11 @@ Hi, I'm **Shubh Tyagi**, a B.Tech Computer Science Engineering student specializ
 
 This repository contains my work as part of the **#DrGViswanathan Challenge**, where I am focusing on building consistency in problem solving and improving my Data Structures & Algorithms skills.
 
+## Profiles
+
+- **LeetCode:** [tyagishubh](https://leetcode.com/u/tyagishubh/)
+- **LinkedIn:** [Shubh Tyagi](https://www.linkedin.com/in/shubh-tyagi-1a8aab323/)
+
 ## About the Challenge
 
 I started this challenge on **8 October 2026**. Although I am starting later than many others, the goal is not to catch up with anyone but to build a consistent learning routine and keep progressing.
