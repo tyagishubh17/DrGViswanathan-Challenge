@@ -1,4 +1,4 @@
-# Day 7 - Team ([Codeforces Problem 231A - Team](https://codeforces.com/problemset/problem/231/A))
+# Day 7 - Team ([Codeforces Problem 231A](https://codeforces.com/problemset/problem/231/A))
 
 ## Problem Description
 
